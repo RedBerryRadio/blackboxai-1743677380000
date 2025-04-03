@@ -1,0 +1,29 @@
+/* Custom styles to enhance Bootstrap */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+.table {
+    margin-top: 20px;
+}
+
+.hero {
+    background: url('https://source.unsplash.com/1600x900/?technology') no-repeat center center;
+    background-size: cover;
+    height: 400px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #f8f9fa;
+}
